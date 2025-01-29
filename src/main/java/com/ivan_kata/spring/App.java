@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring.springboot;
+package com.ivan_kata.spring;
 
 /**
  * Hello world!

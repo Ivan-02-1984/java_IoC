@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring.springboot;
+package com.ivan_kata.spring;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
